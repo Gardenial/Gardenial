@@ -1,6 +1,6 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=1&pause=1000&color=42BAFF&center=true&repeat=false&width=435&lines=Gardenial)](https://git.io/typing-svg)
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=350&size=30&duration=4000&pause=500&color=42BAFF&center=true&repeat=false&width=435&lines=Just+a+student;Future+Devops;Cat+lover)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Just+a+student;Future+Devops;Cat+Lover)](https://git.io/typing-svg)
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardenial&show_icons=true&theme=radical)](https://github.com/Gardenial/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gardenial&show_icons=true&theme=radical)](https://github.com/Gardenial/github-readme-stats) 
