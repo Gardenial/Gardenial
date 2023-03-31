@@ -1,16 +1,17 @@
-### Hi there 👋
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=1&pause=1000&color=42BAFF&center=true&repeat=false&width=435&lines=Gardenial)](https://git.io/typing-svg)
 
-<!--
-**Gardenial/Gardenial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=350&size=30&duration=4000&pause=500&color=42BAFF&center=true&repeat=false&width=435&lines=Just+a+student;Future+Devops;Cat+lover)](https://git.io/typing-svg) 
+ 
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardenial&show_icons=true&theme=radical)](https://github.com/Gardenial/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gardenial&show_icons=true&theme=radical)](https://github.com/Gardenial/github-readme-stats) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>                  
+#
+
+# Oh! thats me!! 
+ <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/c964f49221aa2dc3ac6700aab888b019.gif" width="300" height="300" border="1" alt="https://picasion.com/" /></a><br/>
+<a href="https://instagram.com/gardenoridev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+
