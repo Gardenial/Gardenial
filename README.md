@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardenial&show_icons=true&theme=radical)](https://github.com/Gardenial/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gardenial&show_icons=true&theme=radical)](https://github.com/Gardenial/github-readme-stats) 
 
 ## I'm Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>                  
+[![My Skills](https://skillicons.dev/icons?i=cpp,,azure,react,cs,flutter,linux,python&perline=3)](https://skillicons.dev)
 #
 
 # Oh! thats me!! 
