@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Just+a+student;Future+Devops;Cat+Lover)](https://git.io/typing-svg)
- 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardenial&show_icons=true&theme=radical)](https://github.com/Gardenial/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gardenial&show_icons=true&theme=radical)](https://github.com/Gardenial/github-readme-stats) 
 
@@ -7,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,azure,react,cs,flutter,linux,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,azure,cs,flutter,linux,python" />
   </a>
 </p>
 
