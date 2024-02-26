@@ -1,5 +1,3 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=1&pause=1000&color=42BAFF&center=true&repeat=false&width=435&lines=Gardenial)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Just+a+student;Future+Devops;Cat+Lover)](https://git.io/typing-svg)
  
 
